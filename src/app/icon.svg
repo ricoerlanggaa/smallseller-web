@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.dev/svgjs" width="512" height="512"><svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0.396667 257.806L131.751 439.432L283.831 439.379L414.792 309.122L329.752 193.117L291.112 193.038L211.556 265.324L165.618 212.661L265.194 120.056L363.191 120.081L512 312.354L311.623 512L96.3242 511.989L0.554285 383.035L0.396667 257.806Z" fill="#0D9488"></path>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M511.603 254.194L380.249 72.5684L228.169 72.6208L97.2081 202.878L182.248 318.883L220.888 318.962L300.444 246.676L346.382 299.339L246.806 391.944L148.809 391.919L0 199.646L200.377 0L415.676 0.01077L511.446 128.966L511.603 254.194Z" fill="#0D9488"></path>
+</svg><style>@media (prefers-color-scheme: light) { :root { filter: none; } }
+@media (prefers-color-scheme: dark) { :root { filter: none; } }
+</style></svg>
