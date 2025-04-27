@@ -3,6 +3,7 @@
   "extends": [
     "airbnb",
     "airbnb/hooks",
+    "plugin:jest/recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:@next/next/recommended",
     "plugin:prettier/recommended"
@@ -24,6 +25,7 @@
     "react/react-in-jsx-scope": "off",
     "react/jsx-filename-extension": [1, { "extensions": [".tsx", ".ts"] }],
     "import/no-unresolved": "error",
+    "import/no-extraneous-dependencies": ["error", { "devDependencies": true }],
     "import/extensions": [
       "error",
       "ignorePackages",
